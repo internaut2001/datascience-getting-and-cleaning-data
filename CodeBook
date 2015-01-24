@@ -38,7 +38,7 @@ N.B. in the attached tidy data set, the value for variables numbered 3 to 68 bel
    
 Full List of Variables
 ======================
-1					   Subject : Identifier for each participant (1-30)
+1					        Subject : Identifier for each participant (1-30)
 2                     Activity : Activity performed (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 3            tBodyAcc-mean()-X  
 4            tBodyAcc-mean()-Y
